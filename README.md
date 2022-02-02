@@ -9,11 +9,11 @@ An in-depth paragraph about your project and overview of use.
 ## Getting Started
 ### Dependencies
 #### Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-ex. Windows 10
+#Inclue<string>
 
 ### Installing
-#### How/where to download your program
-#### Any modifications needed to be made to files/folders
+#### Complier to run the code
+#### Replit(www.replit.com) online
 
 ### Executing program
 #### How to run the program
@@ -26,8 +26,8 @@ ex. Windows 10
 
 ### Authors
 #### Contributors names and contact info
-ex. Dominique Pizzie
-ex. [@DomPizzie](https://pages.github.com/)
+ex. Esteban Garcias
+ex. [@Esteban Garcias](https://pages.github.com/)
 
 
 ## Version History
